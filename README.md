@@ -13,7 +13,7 @@ allennlp train "path_\To\the\Json\File" -s "path\Where\To\save\the\outputted\mod
 # Test
 allennlp evaluate  "path\to\model.tar.gz)"  "path\to\the\test\data"
 # If you used this model please cite us as :
-@article{affi2021blc,
+> @article{affi2021blc,
   title={BE-BLC: BERT-ELMO-Based Deep Neural Network Architecture for English Named Entity Recognition Task},
   author={Affi, Manel and Latiri, Chiraz},
   journal={Procedia Computer Science},
