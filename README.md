@@ -1,5 +1,6 @@
 # BE-BLC-for-English-NER-task-Bert-ELMO-CoNLL2003
-This is a BERT-ELMO based deep neural netwok model for English named entity recognition task .
+BE-BLC: BERT-ELMO-Based Deep Neural Network Architecture
+for English Named Entity Recognition Task
 # Requirements
 OS: Linux  
 Python version: 3.7.7  
