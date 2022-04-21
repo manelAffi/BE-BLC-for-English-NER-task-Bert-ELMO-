@@ -8,9 +8,9 @@ PyTorch version: 1.4.0
 # dataset
 https://deepai.org/dataset/conll-2003-english
 # Run
-allennlp train "path To the Json File" -s "path Where To save the outputted model"
+allennlp train "path_\To\the\Json\File" -s "path\Where\To\save\the\outputted\model"
 # Test
-allennlp evaluate  "path to the outputted model (tar.gz)"  "path to the test data"
+allennlp evaluate  "path\to\model.tar.gz)"  "path\to\the\test\data"
 # If you used this model please cite us as :
 @article{affi2021blc,
   title={BE-BLC: BERT-ELMO-Based Deep Neural Network Architecture for English Named Entity Recognition Task},
