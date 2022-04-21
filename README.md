@@ -1,9 +1,10 @@
-# BE-BLC-for-English-NER-task-Bert-ELMO-
+# BE-BLC-for-English-NER-task-Bert-ELMO-CoNLL2003
 This is a BERT-ELMO based deep neural netwok model for English named entity recognition task .
 # Requirements
-Python version: 3.7.7
-AllenNLP version: 0.9.0
-PyTorch version: 1.4.0
+OS: Linux  
+Python version: 3.7.7  
+AllenNLP version: 0.9.0  
+PyTorch version: 1.4.0  
 # dataset
 https://deepai.org/dataset/conll-2003-english
 # Run
